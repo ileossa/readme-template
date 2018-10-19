@@ -1,4 +1,7 @@
 # Product Name
+
+[![GuardRails badge](https://badges.production.guardrails.io/ileossa/readme-template.svg)](https://www.guardrails.io)
+
 > Short blurb about what your product does.
 
 [![NPM Version][npm-image]][npm-url]
